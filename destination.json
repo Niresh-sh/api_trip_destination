@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "image1.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/e2/91/71/caption.jpg?w=300&h=300&s=1",
     "title": "Kathmandu sightseeing tour",
     "description": "A full‑day guided tour of Kathmandu’s UNESCO World Heritage Sites including Boudhanath, Swayambhunath, Pashupatinath, Patan and Bhaktapur Durbar Squares.",
     "price": 15700,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "image2.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ad/0f/dc/boudhanath-stupa-is-the.jpg?w=600&h=400&s=1",
     "title": "Boudhanath Stupa",
     "description": "Visit the iconic Buddhist stupa and cultural center of Boudhanath.",
     "price": 866,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "image3.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/4a/95/ac/pashupatinath-is-the.jpg?w=600&h=-1&s=",
     "title": "Pashupatinath Temple",
     "description": "Explore one of the most sacred Hindu temples in South Asia on the Bagmati River banks.",
     "price": 7738,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image": "image4.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/4d/9c/80/caption.jpg?w=600&h=400&s=1",
     "title": "Swayambhunath Temple",
     "description": "The hilltop Monkey Temple offering views over Kathmandu valley and rich Buddhist heritage.",
     "price": 866,
@@ -37,8 +37,8 @@
   },
   {
     "id": 5,
-    "image": "image5.jpg",
-    "title": "Patan Durbar",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/55/58/1d/caption.jpg?w=300&h=300&s=1",
+    "title": "Patan Durbar Square",
     "description": "Stroll through the royal palaces and temples of Patan Durbar Square, noted for Newari architecture.",
     "price": 4729,
     "rating": 4.8,
@@ -46,8 +46,8 @@
   },
   {
     "id": 6,
-    "image": "image6.jpg",
-    "title": "Bhaktapur and Patan Durbar",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/ce/a3/caption.jpg?w=300&h=300&s=1",
+    "title": "Bhaktapur Durbar Square",
     "description": "Discover two ancient Newar cities’ royal squares and temples.",
     "price": 2620,
     "rating": 4.8,
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "image": "image7.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5b/a8/6a/caption.jpg?w=300&h=300&s=1",
     "title": "Chandragiri Cable Car Tour in Kathmandu",
     "description": "Ride the Chandragiri hill cable car for panoramic views of Nepal’s Himalaya.",
     "price": 7834,
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "image": "image8.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/19/b7/33/caption.jpg?w=300&h=300&s=1",
     "title": "Dhulikhel, Namobuddha & Panauti – A Scenic Day Tour from Kathmandu",
     "description": "Visit historic towns and Buddhist pilgrimage sites near the Kathmandu valley.",
     "price": 7354,
@@ -73,8 +73,8 @@
   },
   {
     "id": 9,
-    "image": "image9.jpg",
-    "title": "Shivapuri",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/21/4d/ac/shivapuri-nagarjun-national.jpg?w=500&h=400&s=1",
+    "title": "Shivapuri National Park",
     "description": "Nature hikes through Shivapuri National Park overlooking Kathmandu city.",
     "price": 2596,
     "rating": 4.5,
@@ -82,8 +82,8 @@
   },
   {
     "id": 10,
-    "image": "image10.jpg",
-    "title": "Nagarkot Pure Tour",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/58/d5/5f/caption.jpg?w=300&h=300&s=1",
+    "title": "Nagarkot Tour",
     "description": "Sunrise and mountain-view tour at the tranquil Nagarkot hill station.",
     "price": 5399,
     "rating": 4.7,
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "image": "image11.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d6/96/35/photo3jpg.jpg?w=600&h=-1&s=1",
     "title": "Sarangkot Sunrise Tour",
     "description": "Early‑morning tour from Pokhara to Sarangkot for sunrise views over Annapurna and Fewa Lake.",
     "price": 6952,
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "image": "image12.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d4/26/43/view-from-tushita-nepal.jpg?w=600&h=-1&s=1",
     "title": "Peace Temple",
     "description": "Visit the World Peace Pagoda overlooking Fewa Lake and Pokhara valley.",
     "price": 2500,
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "image": "image13.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/62/71/2c/the-heart-soul-of-pokhara.jpg?w=600&h=400&s=1",
     "title": "Phewa Lake Tal",
     "description": "Boating on scenic Phewa Lake with mountain reflections.",
     "price": 2200,
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "image": "image14.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6b/c9/b3/begnas-lake.jpg?w=600&h=400&s=1",
     "title": "Begnas Lake",
     "description": "Relax by peaceful Begnas Lake, a quieter alternative near Pokhara.",
     "price": 2300,
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "image": "image15.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/63/50/0d/gupteswar-gupha.jpg?w=500&h=400&s=1",
     "title": "Gupteshwor Gupha",
     "description": "Explore the sacred Hindu cave temple near Pokhara’s lakeside.",
     "price": 2100,
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-    "image": "image16.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/26/fd/c5/photo0jpg.jpg?w=500&h=-1&s=1",
     "title": "Barahi Temple",
     "description": "Temple on an island in Phewa Lake, accessed by boat.",
     "price": 2000,
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-    "image": "image17.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/56/6c/fd/caption.jpg?w=300&h=300&s=1",
     "title": "Tibetan Cultural Tour",
     "description": "Visit Tibetan refugee settlements, culture centers and monasteries in Pokhara.",
     "price": 2800,
@@ -154,7 +154,7 @@
   },
   {
     "id": 18,
-    "image": "image18.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5b/a9/66/caption.jpg?w=300&h=300&s=1",
     "title": "Nagarkot Sunrise Tour",
     "description": "Drive to Nagarkot for sunrise views across the Himalayas.",
     "price": 5624,
@@ -163,7 +163,7 @@
   },
   {
     "id": 19,
-    "image": "image19.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/47/7d/73/stunning-mountain-views.jpg?w=500&h=-1&s=1",
     "title": "Nagarkot Hiking Trail",
     "description": "Hiking trail up and around Nagarkot with panoramic mountain views.",
     "price": 5624,
@@ -172,7 +172,7 @@
   },
   {
     "id": 20,
-    "image": "image20.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/32/80/f5/caption.jpg?w=300&h=300&s=1",
     "title": "Nature Walk in Chitwan Jungle Safari",
     "description": "Guided nature and jungle walk inside Chitwan National Park.",
     "price": 17130,
@@ -181,7 +181,7 @@
   },
   {
     "id": 21,
-    "image": "image21.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/44/ce/3e/caption.jpg?w=300&h=300&s=1",
     "title": "Jungle Safari Tour",
     "description": "Full jungle safari including elephant ride, canoe and jeep.",
     "price": 17130,
@@ -190,7 +190,7 @@
   },
   {
     "id": 22,
-    "image": "image22.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ee/68/e7/chitwan-jungle-safari.jpg?w=500&h=400&s=1",
     "title": "Elephant Breeding Centre",
     "description": "Visit the elephant breeding center and learn about conservation efforts.",
     "price": 2500,
@@ -199,7 +199,7 @@
   },
   {
     "id": 23,
-    "image": "image23.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/11/58/f3/narayani-river.jpg?w=500&h=-1&s=1",
     "title": "Canoeing in Chitwan National Park",
     "description": "Canoe ride on Rapti River spotting wildlife and birds.",
     "price": 2200,
@@ -208,7 +208,7 @@
   },
   {
     "id": 24,
-    "image": "image24.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/da/97/a4/photo3jpg.jpg?w=300&h=-1&s=1",
     "title": "Tharu Village Tour",
     "description": "Cultural tour of Tharu villages near Chitwan National Park.",
     "price": 2600,
@@ -217,7 +217,7 @@
   },
   {
     "id": 25,
-    "image": "image25.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/2b/7b/9f/caption.jpg?w=300&h=300&s=1",
     "title": "Bardiya National Park Tour",
     "description": "Wildlife safari and cultural tours in Bardiya National Park.",
     "price": 3500,
@@ -226,7 +226,7 @@
   },
   {
     "id": 26,
-    "image": "image26.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/4f/a8/47/caption.jpg?w=300&h=300&s=1",
     "title": "Full Day Walking Safari at Bardiya National Park",
     "description": "Walking safari through Bardiya’s forest for rhino and bird sightings.",
     "price": 4000,
@@ -235,7 +235,7 @@
   },
   {
     "id": 27,
-    "image": "image27.jpg",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/d6/6d/a4/caption.jpg?w=300&h=300&s=1",
     "title": "Full Day Jeep Safari at Bardiya National Park",
     "description": "Jeep safari through Bardiya National Park to see wildlife.",
     "price": 4000,
