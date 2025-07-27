@@ -1,387 +1,245 @@
 [
   {
     "id": 1,
-    "image": "https://example.com/images/kathmandu.jpg",
-    "destination": "Kathmandu",
-    "price": 120,
-    "rating": 4.5
+    "image": "image1.jpg",
+    "title": "Kathmandu sightseeing tour",
+    "description": "A full‑day guided tour of Kathmandu’s UNESCO World Heritage Sites including Boudhanath, Swayambhunath, Pashupatinath, Patan and Bhaktapur Durbar Squares.",
+    "price": 15700,
+    "rating": 4.9,
+    "category": "Kathmandu"
   },
   {
     "id": 2,
-    "image": "https://example.com/images/pokhara.jpg",
-    "destination": "Pokhara",
-    "price": 150,
-    "rating": 4.7
+    "image": "image2.jpg",
+    "title": "Boudhanath Stupa",
+    "description": "Visit the iconic Buddhist stupa and cultural center of Boudhanath.",
+    "price": 866,
+    "rating": 4.7,
+    "category": "Kathmandu"
   },
   {
     "id": 3,
-    "image": "https://example.com/images/chitwan.jpg",
-    "destination": "Chitwan",
-    "price": 100,
-    "rating": 4.3
+    "image": "image3.jpg",
+    "title": "Pashupatinath Temple",
+    "description": "Explore one of the most sacred Hindu temples in South Asia on the Bagmati River banks.",
+    "price": 7738,
+    "rating": 4.6,
+    "category": "Kathmandu"
   },
   {
     "id": 4,
-    "image": "https://example.com/images/bardiya.jpg",
-    "destination": "Bardiya",
-    "price": 130,
-    "rating": 4.4
+    "image": "image4.jpg",
+    "title": "Swayambhunath Temple",
+    "description": "The hilltop Monkey Temple offering views over Kathmandu valley and rich Buddhist heritage.",
+    "price": 866,
+    "rating": 4.8,
+    "category": "Kathmandu"
   },
   {
     "id": 5,
-    "image": "https://example.com/images/janakpur.jpg",
-    "destination": "Janakpur",
-    "price": 90,
-    "rating": 4.2
+    "image": "image5.jpg",
+    "title": "Patan Durbar",
+    "description": "Stroll through the royal palaces and temples of Patan Durbar Square, noted for Newari architecture.",
+    "price": 4729,
+    "rating": 4.8,
+    "category": "Kathmandu"
   },
   {
     "id": 6,
-    "image": "https://example.com/images/lumbini.jpg",
-    "destination": "Lumbini",
-    "price": 110,
-    "rating": 4.6
+    "image": "image6.jpg",
+    "title": "Bhaktapur and Patan Durbar",
+    "description": "Discover two ancient Newar cities’ royal squares and temples.",
+    "price": 2620,
+    "rating": 4.8,
+    "category": "Kathmandu"
   },
   {
     "id": 7,
-    "image": "https://example.com/images/ilam.jpg",
-    "destination": "Ilam",
-    "price": 100,
-    "rating": 4.4
+    "image": "image7.jpg",
+    "title": "Chandragiri Cable Car Tour in Kathmandu",
+    "description": "Ride the Chandragiri hill cable car for panoramic views of Nepal’s Himalaya.",
+    "price": 7834,
+    "rating": 4.7,
+    "category": "Kathmandu"
   },
   {
     "id": 8,
-    "image": "https://example.com/images/dhulikhel.jpg",
-    "destination": "Dhulikhel",
-    "price": 80,
-    "rating": 4.3
+    "image": "image8.jpg",
+    "title": "Dhulikhel, Namobuddha & Panauti – A Scenic Day Tour from Kathmandu",
+    "description": "Visit historic towns and Buddhist pilgrimage sites near the Kathmandu valley.",
+    "price": 7354,
+    "rating": 4.6,
+    "category": "Kathmandu"
   },
   {
     "id": 9,
-    "image": "https://example.com/images/nagarkot.jpg",
-    "destination": "Nagarkot",
-    "price": 95,
-    "rating": 4.6
+    "image": "image9.jpg",
+    "title": "Shivapuri",
+    "description": "Nature hikes through Shivapuri National Park overlooking Kathmandu city.",
+    "price": 2596,
+    "rating": 4.5,
+    "category": "Kathmandu"
   },
   {
     "id": 10,
-    "image": "https://example.com/images/mustang.jpg",
-    "destination": "Mustang",
-    "price": 180,
-    "rating": 4.8
+    "image": "image10.jpg",
+    "title": "Nagarkot Pure Tour",
+    "description": "Sunrise and mountain-view tour at the tranquil Nagarkot hill station.",
+    "price": 5399,
+    "rating": 4.7,
+    "category": "Kathmandu"
   },
   {
     "id": 11,
-    "image": "https://example.com/images/manang.jpg",
-    "destination": "Manang",
-    "price": 175,
-    "rating": 4.7
+    "image": "image11.jpg",
+    "title": "Sarangkot Sunrise Tour",
+    "description": "Early‑morning tour from Pokhara to Sarangkot for sunrise views over Annapurna and Fewa Lake.",
+    "price": 6952,
+    "rating": 4.5,
+    "category": "Pokhara"
   },
   {
     "id": 12,
-    "image": "https://example.com/images/gosaikunda.jpg",
-    "destination": "Gosaikunda",
-    "price": 160,
-    "rating": 4.9
+    "image": "image12.jpg",
+    "title": "Peace Temple",
+    "description": "Visit the World Peace Pagoda overlooking Fewa Lake and Pokhara valley.",
+    "price": 4000,
+    "rating": 4.3,
+    "category": "Pokhara"
   },
   {
     "id": 13,
-    "image": "https://example.com/images/ghandruk.jpg",
-    "destination": "Ghandruk",
-    "price": 140,
-    "rating": 4.6
+    "image": "image13.jpg",
+    "title": "Phewa Lake Tal",
+    "description": "Boating on scenic Phewa Lake with mountain reflections.",
+    "price": 3500,
+    "rating": 4.4,
+    "category": "Pokhara"
   },
   {
     "id": 14,
-    "image": "https://example.com/images/sarangkot.jpg",
-    "destination": "Sarangkot",
-    "price": 100,
-    "rating": 4.5
+    "image": "image14.jpg",
+    "title": "Begnas Lake",
+    "description": "Relax by peaceful Begnas Lake, a quieter alternative near Pokhara.",
+    "price": 6000,
+    "rating": 4.7,
+    "category": "Pokhara"
   },
   {
     "id": 15,
-    "image": "https://example.com/images/kanyam.jpg",
-    "destination": "Kanyam",
-    "price": 105,
-    "rating": 4.4
+    "image": "image15.jpg",
+    "title": "Gupteshwor Gupha",
+    "description": "Explore the sacred Hindu cave temple near Pokhara’s lakeside.",
+    "price": 3000,
+    "rating": 4.1,
+    "category": "Pokhara"
   },
   {
     "id": 16,
-    "image": "https://example.com/images/banepa.jpg",
-    "destination": "Banepa",
-    "price": 85,
-    "rating": 4.2
+    "image": "image16.jpg",
+    "title": "Barahi Temple",
+    "description": "Temple on an island in Phewa Lake, accessed by boat.",
+    "price": 4000,
+    "rating": 4.0,
+    "category": "Pokhara"
   },
   {
     "id": 17,
-    "image": "https://example.com/images/tansen.jpg",
-    "destination": "Tansen",
-    "price": 95,
-    "rating": 4.3
+    "image": "image17.jpg",
+    "title": "Tibetan Cultural Tour",
+    "description": "Visit Tibetan refugee settlements, culture centers and monasteries in Pokhara.",
+    "price": 5000,
+    "rating": 3.5,
+    "category": "Pokhara"
   },
   {
     "id": 18,
-    "image": "https://example.com/images/daman.jpg",
-    "destination": "Daman",
-    "price": 90,
-    "rating": 4.5
+    "image": "image18.jpg",
+    "title": "Nagarkot Sunrise Tour",
+    "description": "Drive to Nagarkot for sunrise views across the Himalayas.",
+    "price": 5624,
+    "rating": 4.7,
+    "category": "Kathmandu"
   },
   {
     "id": 19,
-    "image": "https://example.com/images/phoksundo.jpg",
-    "destination": "Phoksundo Lake",
-    "price": 200,
-    "rating": 4.9
+    "image": "image19.jpg",
+    "title": "Nagarkot Hiking Trail",
+    "description": "Hiking trail up and around Nagarkot with panoramic mountain views.",
+    "price": 5624,
+    "rating": 4.6,
+    "category": "Kathmandu"
   },
   {
     "id": 20,
-    "image": "https://example.com/images/rara.jpg",
-    "destination": "Rara Lake",
-    "price": 190,
-    "rating": 4.9
+    "image": "image20.jpg",
+    "title": "Nature Walk in Chitwan Jungle Safari",
+    "description": "Guided nature and jungle walk inside Chitwan National Park.",
+    "price": 17130,
+    "rating": 4.5,
+    "category": "Chitwan"
   },
   {
     "id": 21,
-    "image": "https://example.com/images/syangja.jpg",
-    "destination": "Syangja",
-    "price": 100,
-    "rating": 4.2
+    "image": "image21.jpg",
+    "title": "Jungle Safari Tour",
+    "description": "Full jungle safari including elephant ride, canoe and jeep.",
+    "price": 17130,
+    "rating": 4.5,
+    "category": "Chitwan"
   },
   {
     "id": 22,
-    "image": "https://example.com/images/dailekh.jpg",
-    "destination": "Dailekh",
-    "price": 105,
-    "rating": 4.1
+    "image": "image22.jpg",
+    "title": "Elephant Breeding Centre",
+    "description": "Visit the elephant breeding center and learn about conservation efforts.",
+    "price": 4500,
+    "rating": 4.4,
+    "category": "Chitwan"
   },
   {
     "id": 23,
-    "image": "https://example.com/images/bhairahawa.jpg",
-    "destination": "Bhairahawa",
-    "price": 95,
-    "rating": 4.2
+    "image": "image23.jpg",
+    "title": "Canoeing in Chitwan National Park",
+    "description": "Canoe ride on Rapti River spotting wildlife and birds.",
+    "price": 4000,
+    "rating": 3.8,
+    "category": "Chitwan"
   },
   {
     "id": 24,
-    "image": "https://example.com/images/gaur.jpg",
-    "destination": "Gaur",
-    "price": 90,
-    "rating": 4.0
+    "image": "image24.jpg",
+    "title": "Tharu Village Tour",
+    "description": "Cultural tour of Tharu villages near Chitwan National Park.",
+    "price": 4000,
+    "rating": 4.0,
+    "category": "Chitwan"
   },
   {
     "id": 25,
-    "image": "https://example.com/images/jomsom.jpg",
-    "destination": "Jomsom",
-    "price": 160,
-    "rating": 4.7
+    "image": "image25.jpg",
+    "title": "Bardiya National Park Tour",
+    "description": "Wildlife safari and cultural tours in Bardiya National Park.",
+    "price": 4000,
+    "rating": 4.4,
+    "category": "Bardiya"
   },
   {
     "id": 26,
-    "image": "https://example.com/images/biratnagar.jpg",
-    "destination": "Biratnagar",
-    "price": 110,
-    "rating": 4.1
+    "image": "image26.jpg",
+    "title": "Full Day Walking Safari at Bardiya National Park",
+    "description": "Walking safari through Bardiya’s forest for rhino and bird sightings.",
+    "price": 4000,
+    "rating": 4.1,
+    "category": "Bardiya"
   },
   {
     "id": 27,
-    "image": "https://example.com/images/birgunj.jpg",
-    "destination": "Birgunj",
-    "price": 100,
-    "rating": 4.0
-  },
-  {
-    "id": 28,
-    "image": "https://example.com/images/hetauda.jpg",
-    "destination": "Hetauda",
-    "price": 95,
-    "rating": 4.3
-  },
-  {
-    "id": 29,
-    "image": "https://example.com/images/palpa.jpg",
-    "destination": "Palpa",
-    "price": 105,
-    "rating": 4.5
-  },
-  {
-    "id": 30,
-    "image": "https://example.com/images/taplejung.jpg",
-    "destination": "Taplejung",
-    "price": 115,
-    "rating": 4.2
-  },
-  {
-    "id": 31,
-    "image": "https://example.com/images/sindhuli.jpg",
-    "destination": "Sindhuli",
-    "price": 90,
-    "rating": 4.3
-  },
-  {
-    "id": 32,
-    "image": "https://example.com/images/kapilvastu.jpg",
-    "destination": "Kapilvastu",
-    "price": 100,
-    "rating": 4.4
-  },
-  {
-    "id": 33,
-    "image": "https://example.com/images/pyuthan.jpg",
-    "destination": "Pyuthan",
-    "price": 95,
-    "rating": 4.2
-  },
-  {
-    "id": 34,
-    "image": "https://example.com/images/darchula.jpg",
-    "destination": "Darchula",
-    "price": 130,
-    "rating": 4.4
-  },
-  {
-    "id": 35,
-    "image": "https://example.com/images/baglung.jpg",
-    "destination": "Baglung",
-    "price": 105,
-    "rating": 4.3
-  },
-  {
-    "id": 36,
-    "image": "https://example.com/images/panchthar.jpg",
-    "destination": "Panchthar",
-    "price": 100,
-    "rating": 4.1
-  },
-  {
-    "id": 37,
-    "image": "https://example.com/images/jhapa.jpg",
-    "destination": "Jhapa",
-    "price": 95,
-    "rating": 4.0
-  },
-  {
-    "id": 38,
-    "image": "https://example.com/images/rolpa.jpg",
-    "destination": "Rolpa",
-    "price": 110,
-    "rating": 4.3
-  },
-  {
-    "id": 39,
-    "image": "https://example.com/images/khaptad.jpg",
-    "destination": "Khaptad",
-    "price": 140,
-    "rating": 4.7
-  },
-  {
-    "id": 40,
-    "image": "https://example.com/images/dhorpatan.jpg",
-    "destination": "Dhorpatan",
-    "price": 135,
-    "rating": 4.5
-  },
-  {
-    "id": 41,
-    "image": "https://example.com/images/bhojpur.jpg",
-    "destination": "Bhojpur",
-    "price": 90,
-    "rating": 4.1
-  },
-  {
-    "id": 42,
-    "image": "https://example.com/images/myagdi.jpg",
-    "destination": "Myagdi",
-    "price": 110,
-    "rating": 4.4
-  },
-  {
-    "id": 43,
-    "image": "https://example.com/images/salleri.jpg",
-    "destination": "Salleri",
-    "price": 115,
-    "rating": 4.3
-  },
-  {
-    "id": 44,
-    "image": "https://example.com/images/okhaldhunga.jpg",
-    "destination": "Okhaldhunga",
-    "price": 100,
-    "rating": 4.2
-  },
-  {
-    "id": 45,
-    "image": "https://example.com/images/lamjung.jpg",
-    "destination": "Lamjung",
-    "price": 105,
-    "rating": 4.4
-  },
-  {
-    "id": 46,
-    "image": "https://example.com/images/sindhupalchok.jpg",
-    "destination": "Sindhupalchok",
-    "price": 95,
-    "rating": 4.3
-  },
-  {
-    "id": 47,
-    "image": "https://example.com/images/bhaktapur.jpg",
-    "destination": "Bhaktapur",
-    "price": 80,
-    "rating": 4.6
-  },
-  {
-    "id": 48,
-    "image": "https://example.com/images/lalitpur.jpg",
-    "destination": "Lalitpur",
-    "price": 85,
-    "rating": 4.6
-  },
-  {
-    "id": 49,
-    "image": "https://example.com/images/solukhumbu.jpg",
-    "destination": "Solukhumbu",
-    "price": 185,
-    "rating": 4.8
-  },
-  {
-    "id": 50,
-    "image": "https://example.com/images/darchula.jpg",
-    "destination": "Darchula",
-    "price": 135,
-    "rating": 4.5
-  },
-  {
-    "id": 51,
-    "image": "https://example.com/images/makwanpur.jpg",
-    "destination": "Makwanpur",
-    "price": 95,
-    "rating": 4.2
-  },
-  {
-    "id": 52,
-    "image": "https://example.com/images/nuwakot.jpg",
-    "destination": "Nuwakot",
-    "price": 90,
-    "rating": 4.4
-  },
-  {
-    "id": 53,
-    "image": "https://example.com/images/gorkha.jpg",
-    "destination": "Gorkha",
-    "price": 100,
-    "rating": 4.5
-  },
-  {
-    "id": 54,
-    "image": "https://example.com/images/dolakha.jpg",
-    "destination": "Dolakha",
-    "price": 110,
-    "rating": 4.6
-  },
-  {
-    "id": 55,
-    "image": "https://example.com/images/ranikot.jpg",
-    "destination": "Ranikot",
-    "price": 85,
-    "rating": 4.3
+    "image": "image27.jpg",
+    "title": "Full Day Jeep Safari at Bardiya National Park",
+    "description": "Jeep safari through Bardiya National Park to see wildlife.",
+    "price": 4000,
+    "rating": 4.0,
+    "category": "Bardiya"
   }
 ]
