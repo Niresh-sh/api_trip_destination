@@ -6,7 +6,7 @@
     "description": "A full‑day guided tour of Kathmandu’s UNESCO World Heritage Sites including Boudhanath, Swayambhunath, Pashupatinath, Patan and Bhaktapur Durbar Squares.",
     "price": 15700,
     "rating": 4.9,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "description": "Visit the iconic Buddhist stupa and cultural center of Boudhanath.",
     "price": 866,
     "rating": 4.7,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "description": "Explore one of the most sacred Hindu temples in South Asia on the Bagmati River banks.",
     "price": 7738,
     "rating": 4.6,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "description": "The hilltop Monkey Temple offering views over Kathmandu valley and rich Buddhist heritage.",
     "price": 866,
     "rating": 4.8,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "description": "Stroll through the royal palaces and temples of Patan Durbar Square, noted for Newari architecture.",
     "price": 4729,
     "rating": 4.8,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "description": "Discover two ancient Newar cities’ royal squares and temples.",
     "price": 2620,
     "rating": 4.8,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "description": "Ride the Chandragiri hill cable car for panoramic views of Nepal’s Himalaya.",
     "price": 7834,
     "rating": 4.7,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "description": "Visit historic towns and Buddhist pilgrimage sites near the Kathmandu valley.",
     "price": 7354,
     "rating": 4.6,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "description": "Nature hikes through Shivapuri National Park overlooking Kathmandu city.",
     "price": 2596,
     "rating": 4.5,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "description": "Sunrise and mountain-view tour at the tranquil Nagarkot hill station.",
     "price": 5399,
     "rating": 4.7,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 11,
@@ -96,61 +96,61 @@
     "description": "Early‑morning tour from Pokhara to Sarangkot for sunrise views over Annapurna and Fewa Lake.",
     "price": 6952,
     "rating": 4.5,
-    "category": "Pokhara"
+    "city": "Pokhara"
   },
   {
     "id": 12,
     "image": "image12.jpg",
     "title": "Peace Temple",
     "description": "Visit the World Peace Pagoda overlooking Fewa Lake and Pokhara valley.",
-    "price": 4000,
-    "rating": 4.3,
-    "category": "Pokhara"
+    "price": 2500,
+    "rating": 4.6,
+    "city": "Pokhara"
   },
   {
     "id": 13,
     "image": "image13.jpg",
     "title": "Phewa Lake Tal",
     "description": "Boating on scenic Phewa Lake with mountain reflections.",
-    "price": 3500,
-    "rating": 4.4,
-    "category": "Pokhara"
+    "price": 2200,
+    "rating": 4.7,
+    "city": "Pokhara"
   },
   {
     "id": 14,
     "image": "image14.jpg",
     "title": "Begnas Lake",
     "description": "Relax by peaceful Begnas Lake, a quieter alternative near Pokhara.",
-    "price": 6000,
-    "rating": 4.7,
-    "category": "Pokhara"
+    "price": 2300,
+    "rating": 4.5,
+    "city": "Pokhara"
   },
   {
     "id": 15,
     "image": "image15.jpg",
     "title": "Gupteshwor Gupha",
     "description": "Explore the sacred Hindu cave temple near Pokhara’s lakeside.",
-    "price": 3000,
-    "rating": 4.1,
-    "category": "Pokhara"
+    "price": 2100,
+    "rating": 4.4,
+    "city": "Pokhara"
   },
   {
     "id": 16,
     "image": "image16.jpg",
     "title": "Barahi Temple",
     "description": "Temple on an island in Phewa Lake, accessed by boat.",
-    "price": 4000,
-    "rating": 4.0,
-    "category": "Pokhara"
+    "price": 2000,
+    "rating": 4.3,
+    "city": "Pokhara"
   },
   {
     "id": 17,
     "image": "image17.jpg",
     "title": "Tibetan Cultural Tour",
     "description": "Visit Tibetan refugee settlements, culture centers and monasteries in Pokhara.",
-    "price": 5000,
-    "rating": 3.5,
-    "category": "Pokhara"
+    "price": 2800,
+    "rating": 4.5,
+    "city": "Pokhara"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "description": "Drive to Nagarkot for sunrise views across the Himalayas.",
     "price": 5624,
     "rating": 4.7,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "description": "Hiking trail up and around Nagarkot with panoramic mountain views.",
     "price": 5624,
     "rating": 4.6,
-    "category": "Kathmandu"
+    "city": "Kathmandu"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "description": "Guided nature and jungle walk inside Chitwan National Park.",
     "price": 17130,
     "rating": 4.5,
-    "category": "Chitwan"
+    "city": "Chitwan"
   },
   {
     "id": 21,
@@ -186,43 +186,43 @@
     "description": "Full jungle safari including elephant ride, canoe and jeep.",
     "price": 17130,
     "rating": 4.5,
-    "category": "Chitwan"
+    "city": "Chitwan"
   },
   {
     "id": 22,
     "image": "image22.jpg",
     "title": "Elephant Breeding Centre",
     "description": "Visit the elephant breeding center and learn about conservation efforts.",
-    "price": 4500,
+    "price": 2500,
     "rating": 4.4,
-    "category": "Chitwan"
+    "city": "Chitwan"
   },
   {
     "id": 23,
     "image": "image23.jpg",
     "title": "Canoeing in Chitwan National Park",
     "description": "Canoe ride on Rapti River spotting wildlife and birds.",
-    "price": 4000,
-    "rating": 3.8,
-    "category": "Chitwan"
+    "price": 2200,
+    "rating": 4.6,
+    "city": "Chitwan"
   },
   {
     "id": 24,
     "image": "image24.jpg",
     "title": "Tharu Village Tour",
     "description": "Cultural tour of Tharu villages near Chitwan National Park.",
-    "price": 4000,
-    "rating": 4.0,
-    "category": "Chitwan"
+    "price": 2600,
+    "rating": 4.5,
+    "city": "Chitwan"
   },
   {
     "id": 25,
     "image": "image25.jpg",
     "title": "Bardiya National Park Tour",
     "description": "Wildlife safari and cultural tours in Bardiya National Park.",
-    "price": 4000,
-    "rating": 4.4,
-    "category": "Bardiya"
+    "price": 3500,
+    "rating": 4.6,
+    "city": "Bardiya"
   },
   {
     "id": 26,
