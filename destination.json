@@ -1,303 +1,684 @@
 [
   {
-  "nagarkot": {
-    "id": "nagarkot",
-    "hero": {
-      "image": "/images/nagarkot-hero.jpg",
-      "title": "Nagarkot Panoramic Hiking Trail",
-      "location": "Nagarkot, Nepal",
-      "rating": 4.8,
-      "reviews": 1200,
-      "duration": "3–3.5 hours",
-      "price": 25,
-      "rank": 1,
-      "description": "A scenic ~12 km loop hike with breathtaking Himalayan vistas along the ridge above Nagarkot." 
+    "id": 1,
+    "title": "Nagarkot Panoramic Hiking Trail",
+    "location": "Nagarkot, Nepal",
+    "latitude": 27.7172,
+    "longitude": 85.52,
+    "rating": 4.8,
+    "reviews": 2847,
+    "duration": "3-4 hours",
+    "cost": 25,
+    "description": "Experience breathtaking sunrise views over the Himalayas...",
+    "highlights": ["Himalayan Views", "Sunrise Experience", "Cool Climate"],
+    "elevation": "2,195m (7,201ft)",
+    "bestTime": {
+      "OctDec": "5-15°C",
+      "MarMay": "10-20°C",
+      "JunSep": "15-25°C"
     },
-    "photos": [
-      "/images/nagarkot-1.jpg", "/images/nagarkot-2.jpg", "/images/nagarkot-3.jpg"
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/a4/f0/2c/himalayan-range-from.jpg?w=700&h=400&s=1",
+    "included": [
+      "Professional English-speaking guide",
+      "Transportation from meeting point",
+      "Trail permits and fees"
     ],
-    "about": {
-      "elevation": "≈ 2,175 m",
-      "distanceFromKathmandu": "≈ 38 km east",
-      "terrain": "Gentle ridge‑trail, village path and forest segments",
-      "highlights": [
-        "Panoramic Himalaya sunrise shots",
-        "Traditional Tamang village footpaths",
-        "Tea‑house stops"
-      ]
-    },
-    "locationRoute": {
-      "fromKathmandu": "Drive 1.5 hours east to Nagarkot; hike begins at local gardens/village trailheads"
-    },
-    "bestTime": ["September–November", "March–May"],
-    "booking": {
-      "tourOperators": "Guided sunrise hikes ~USD 20–40 per person",
-      "selfGuided": "Trail accessible without official booking"
-    }
+    "notIncluded": ["Personal expenses", "Travel insurance", "Accommodation"],
+    "nearbyAttractions": [
+      { "name": "Bhaktapur Durbar Square", "distance": "25 km", "rating": 4.6 },
+      { "name": "Chang Narayan Temple", "distance": "15 km", "rating": 4.5 }
+    ]
   },
-  "boudhanath-stupa": {
-    "id": "boudhanath-stupa",
-    "hero": {
-      "image": "/images/boudhanath-hero.jpg",
-      "title": "Boudhanath Stupa",
-      "location": "Kathmandu, Nepal",
-      "rating": 4.8,
-      "reviews": 3800,
-      "duration": "1–2 hours",
-      "price": 4,
-      "rank": 2,
-      "description": "One of the world’s largest Buddhist stupas and a UNESCO World Heritage Site."
+  {
+    "id": 2,
+    "title": "Phewa Lake Tal",
+    "location": "Pokhara, Nepal",
+    "latitude": 28.2073,
+    "longitude": 83.9833,
+    "rating": 4.7,
+    "reviews": 2011,
+    "duration": "2-3 hours",
+    "cost": 15,
+    "description": "Boating on scenic Phewa Lake with mountain reflections.",
+    "highlights": ["Boating", "Lake Views", "Mountain Reflections"],
+    "elevation": "742m (2,434ft)",
+    "bestTime": {
+      "OctDec": "10-20°C",
+      "MarMay": "15-25°C",
+      "JunSep": "20-30°C"
     },
-    "photos": [
-      "/images/boudha-1.jpg", "/images/boudha-2.jpg", "/images/boudha-3.jpg"
-    ],
-    "about": {
-      "religion": "Tibetan Buddhist",
-      "features": [
-        "Massive mandala stupa & prayer wheels",
-        "Surrounded by Tibetan monasteries",
-        "Pilgrims doing kora/circling prayers"
-      ]
-    },
-    "locationRoute": {
-      "fromKathmandu": "Taxi or tuk‑tuk to Boudhanath; short walk around the stupa"
-    },
-    "bestTime": ["Early morning or late afternoon", "Festivals like Lhosar"],
-    "booking": {
-      "entryFees": {
-        "foreign": "NPR 400 (~USD 3.40)",
-        "SAARC": "NPR 100",
-        "Nepali": "free"
-      },
-      "visitTips": [
-        "Walk clockwise",
-        "Ideal time: sunset candle lighting"
-      ]
-    }
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/62/71/2c/the-heart-soul-of-pokhara.jpg?w=700&h=400&s=1",
+    "included": ["Boat rental", "Life jackets"],
+    "notIncluded": ["Guide", "Meals", "Transportation"],
+    "nearbyAttractions": [
+      { "name": "Barahi Temple", "distance": "0.5 km", "rating": 4.3 },
+      { "name": "World Peace Pagoda", "distance": "4 km", "rating": 4.6 }
+    ]
   },
-  "chandragiri-cable-car": {
-    "id": "chandragiri-cable-car",
-    "hero": {
-      "image": "/images/chandragiri-hero.jpg",
-      "title": "Chandragiri Cable Car Tour",
-      "location": "Chandragiri Hills, near Kathmandu",
-      "rating": 4.4,
-      "reviews": 1200,
-      "duration": "Half‑day (4–6 hours)",
-      "price": 20,
-      "rank": 3,
-      "description": "Scenic cable car ride up Chandragiri Hill offering Himalayan and Kathmandu Valley views."
+  {
+    "id": 3,
+    "title": "Sarangkot Sunrise Viewpoint",
+    "location": "Pokhara, Nepal",
+    "latitude": 28.2669,
+    "longitude": 83.9685,
+    "rating": 4.5,
+    "reviews": 1893,
+    "duration": "3 hours",
+    "cost": 20,
+    "description": "Early morning trip to view sunrise over Annapurna range.",
+    "highlights": ["Sunrise", "Mountain Views", "Photography"],
+    "elevation": "1,600m (5,249ft)",
+    "bestTime": {
+      "OctDec": "10-18°C",
+      "MarMay": "12-22°C",
+      "JunSep": "15-25°C"
     },
-    "photos": [
-      "/images/chandragiri-1.jpg",
-      "/images/chandragiri-2.jpg",
-      "/images/chandragiri-3.jpg"
-    ],
-    "about": {
-      "elevation": "≈ 2,500 m",
-      "features": [
-        "9–12 min gondola ride (2.5 km)",
-        "Viewing tower & Bhaleshwor Temple",
-        "Optional short hikes"
-      ]
-    },
-    "locationRoute": {
-      "fromKathmandu": "Drive ~30 km southwest; cable‑car station at base of hill"
-    },
-    "bestTime": ["Year‑round"],
-    "booking": {
-      "ticketPrices": {
-        "Nepali (two‑way)": "NPR 799",
-        "SAARC (two‑way)": "NPR 1,280",
-        "Foreigners (two‑way)": "USD 15–22"
-      },
-      "tourOperators": "Cable‑car tours from Kathmandu from ~USD 50–90 including transport"
-    }
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d6/96/35/photo3jpg.jpg?w=700&h=400&s=1",
+    "included": ["Transportation", "Guide"],
+    "notIncluded": ["Food", "Park entry fee"],
+    "nearbyAttractions": [
+      { "name": "Phewa Lake", "distance": "8 km", "rating": 4.7 }
+    ]
   },
-  "chitwan-jungle-safari": {
-    "id": "chitwan-jungle-safari",
-    "hero": {
-      "image": "/images/chitwan-safari-hero.jpg",
-      "title": "Chitwan Jungle Safari Tour",
-      "location": "Chitwan National Park, Nepal",
-      "rating": 4.7,
-      "reviews": 1000,
-      "duration": "2–3 days",
-      "price": 200,
-      "rank": 4,
-      "description": "Safari in Chitwan National Park with wildlife viewing, canoe rides, and Tharu cultural experiences."
+  {
+    "id": 4,
+    "title": "Boudhanath Stupa",
+    "location": "Kathmandu, Nepal",
+    "latitude": 27.7017,
+    "longitude": 85.3206,
+    "rating": 4.7,
+    "reviews": 2231,
+    "duration": "1-2 hours",
+    "cost": 5,
+    "description": "Visit the iconic Buddhist stupa and cultural center of Boudhanath.",
+    "highlights": ["Buddhist Culture", "Prayer Wheels", "Monastery Visit"],
+    "elevation": "1,400m (4,593ft)",
+    "bestTime": {
+      "OctDec": "10-20°C",
+      "MarMay": "15-25°C",
+      "JunSep": "20-28°C"
     },
-    "photos": [
-      "/images/chitwan-1.jpg",
-      "/images/chitwan-2.jpg",
-      "/images/chitwan-3.jpg"
-    ],
-    "about": {
-      "features": [
-        "Jeep or walking safari for rhinos & birds",
-        "Canoeing on Rapti River",
-        "Elephant breeding centre visits",
-        "Tharu dance & cultural village"
-      ],
-      "startLocation": "Sauraha or Bharatpur"
-    },
-    "locationRoute": {
-      "fromKathmandu": "4–6 hours drive to Sauraha or Bharatpur airport then transfer to lodge"
-    },
-    "bestTime": ["October–April"],
-    "booking": {
-      "packages": {
-        "2‑night/3‑day": "USD 200–270 per person including transport, accommodation, meals & activities"
-      },
-      "operators": "Multiple lodge-based safari operators in Chitwan"
-    }
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ad/0f/dc/boudhanath-stupa-is-the.jpg?w=1000&h=-1&s=1",
+    "included": ["Entry ticket"],
+    "notIncluded": ["Transport", "Meals"],
+    "nearbyAttractions": [
+      { "name": "Pashupatinath Temple", "distance": "3 km", "rating": 4.6 }
+    ]
   },
-  "pashupatinath-temple": {
-    "id": "pashupatinath-temple",
-    "hero": {
-      "image": "/images/pashupatinath-hero.jpg",
-      "title": "Pashupatinath Temple",
-      "location": "Kathmandu, Nepal",
-      "rating": 4.4,
-      "reviews": 5095,
-      "duration": "1–2 hours",
-      "price": 10,
-      "rank": 5,
-      "description": "Nepal’s holiest Hindu temple on the Bagmati, UNESCO World Heritage Site with daily rituals."
+  {
+    "id": 5,
+    "title": "Jungle Safari in Chitwan",
+    "location": "Chitwan, Nepal",
+    "latitude": 27.676,
+    "longitude": 84.39,
+    "rating": 4.5,
+    "reviews": 1422,
+    "duration": "Full Day",
+    "cost": 50,
+    "description": "Wildlife safari including jeep ride, canoeing and bird watching in Chitwan National Park.",
+    "highlights": ["Wildlife", "Jeep Safari", "Canoeing"],
+    "elevation": "150m (492ft)",
+    "bestTime": {
+      "OctDec": "20-28°C",
+      "MarMay": "22-32°C",
+      "JunSep": "25-35°C"
     },
-    "photos": [
-      "/images/pashupatinath-1.jpg",
-      "/images/pashupatinath-2.jpg",
-      "/images/pashupatinath-3.jpg"
-    ],
-    "about": {
-      "religion": "Hindu (Shiva)",
-      "siteArea": "≈ 246 ha",
-      "features": [
-        "Pagoda temples with silver‑plated doors",
-        "Riverside cremation ghats",
-        "Abhishekam ceremony & evening aarti"
-      ]
-    },
-    "locationRoute": {
-      "fromKathmanduAirport": "≈ 15 min drive from airport; taxis or local buses available"
-    },
-    "bestTime": ["Autumn (Sept–Nov)", "Spring (Mar–May)", "Winter (Dec–Feb)"],
-    "booking": {
-      "entryFees": {
-        "Nepali/Indian": "free",
-        "Foreigner": "NPR 1000 (~USD 10)"
-      },
-      "visitTips": [
-        "Dress modestly",
-        "Remove shoes before courtyard",
-        "Photography only outside main sanctum"
-      ]
-    }
-  }
-},
-{
-  "shivapuri-hike": {
-    "id": "shivapuri-hike",
-    "hero": {
-      "image": "/images/shivapuri-hero.jpg",
-      "title": "Shivapuri National Park Day Hike",
-      "location": "Shivapuri Hills, near Kathmandu",
-      "rating": 4.6,
-      "reviews": 500,
-      "duration": "1 day (4–6 hours hiking)",
-      "price": 30,
-      "rank": 6,
-      "description": "Forest trail hike to Shivapuri Peak with dense forest, Bagdwar source of Bagmati, monastery stop and Himalayan views."
-    },
-    "photos": [
-      "/images/shivapuri-1.jpg", "/images/shivapuri-2.jpg", "/images/shivapuri-3.jpg"
-    ],
-    "about": {
-      "elevation": "from ~1,450 m to 2,732 m",
-      "terrain": "Managed forest paths, rhododendron & oak woodland",
-      "highlights": [
-        "Panorama of Langtang & Ganesh Himal",
-        "Bagdwar water source & Nagi Gompa",
-        "Birding and wildlife in Shivapuri National Park"
-      ]
-    },
-    "locationRoute": {
-      "fromKathmandu": "Drive ~40 min to Budhanilkantha/Sundarijal; hike via Bagdwar to Nagi Gompa and Shivapuri peak, return same"
-    },
-    "bestTime": ["September–May"],
-    "booking": {
-      "package": "Approximately USD 30–100 per person depending on group size & services",
-      "includes": ["Transport, guide, park permit, lunch/snacks"] 
-    }
+    "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0f/7c/45/c9.jpg",
+    "included": ["Park entry", "Jeep safari", "Guide"],
+    "notIncluded": ["Accommodation", "Meals", "Travel insurance"],
+    "nearbyAttractions": [
+      { "name": "Elephant Breeding Centre", "distance": "6 km", "rating": 4.4 }
+    ]
   },
-  "namobuddha-panauti-day-tour": {
-    "id": "namobuddha-panauti-day-tour",
-    "hero": {
-      "image": "/images/namobuddha-panauti-hero.jpg",
-      "title": "Namobuddha & Panauti Day Tour",
-      "location": "Namobuddha & Panauti, Nepal",
-      "rating": 4.5,
-      "reviews": 350,
-      "duration": "Full day (8 hours)",
-      "price": 45,
-      "rank": 7,
-      "description": "Spiritual pilgrimage at Namobuddha monastery followed by cultural exploration of medieval town Panauti."
-    },
-    "photos": [
-      "/images/namobuddha-1.jpg", "/images/panauti-1.jpg", "/images/panauti-2.jpg"
-    ],
-    "about": {
-      "elevation": "Namobuddha ~1,800 m",
-      "distanceFromKathmandu": "≈ 38 km southeast",
-      "features": [
-        "Hill‑top Buddhist monastery with legend of Buddha’s self‑sacrifice",
-        "Medieval Newari architecture in Panauti including Indreshwar Temple",
-        "Triveni rivers confluence"
-      ]
-    },
-    "locationRoute": {
-      "fromKathmandu": "Drive southeast ~1.5 hours via Banepa to Namobuddha hike, then continue to Panauti return to Kathmandu"
-    },
-    "bestTime": ["September–November", "March–May"],
-    "booking": {
-      "TourPackages": "USD 35–65 per person depending on group size",
-      "includes": ["Hotel pickup, guide, entry, lunch"] 
-    }
-  },
-  "dhulikhel-day-tour": {
-    "id": "dhulikhel-day-tour",
-    "hero": {
-      "image": "/images/dhulikhel-hero.jpg",
-      "title": "Dhulikhel & Surroundings Scenic Day Tour",
-      "location": "Dhulikhel, Nepal",
-      "rating": 4.6,
-      "reviews": 600,
-      "duration": "Full day",
-      "price": 40,
-      "rank": 8,
-      "description": "Hill town Dhulikhel with Himalayan panoramas, traditional Newari culture, and optional side‑visits to Namobuddha and Panauti."
-    },
-    "photos": [
-      "/images/dhulikhel-1.jpg", "/images/dhulikhel-2.jpg", "/images/dhulikhel-3.jpg"
-    ],
-    "about": {
-      "elevation": "≈ 1,550 m",
-      "distanceFromKathmandu": "≈ 30 km east",
-      "features": [
-        "Sunrise & sunset Himalayan views",
-        "Old Newari bazaar & temples",
-        "Optional hiking or village exploration"
-      ]
-    },
-    "locationRoute": {
-      "fromKathmandu": "Drive east to Dhulikhel, view points, local bazaar; optionally continue to Namobuddha and Panauti"
-    },
-    "bestTime": ["March–May", "September–November"],
-    "booking": {
-      "packages": "USD 35–60 per person including transport and guide"
-    }
-  }
-}
 
+  {
+    "id": 6,
+    "title": "Full Day Walking Safari at Bardiya National Park",
+    "location": "Bardiya, Nepal",
+    "latitude": 28.31023,
+    "longitude": 81.4279,
+    "rating": 4.1,
+    "reviews": 850,
+    "duration": "Full Day",
+    "cost": 40,
+    "description": "Walking safari through Bardiya’s forest for rhino and bird sightings.",
+    "highlights": ["Walking Safari", "Birdwatching", "Rhino Tracking"],
+    "elevation": "150m",
+    "bestTime": {
+      "OctDec": "20-30°C",
+      "MarMay": "22-35°C",
+      "JunSep": "25-35°C"
+    },
+    "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/12/22/fc/b3.jpg",
+    "included": ["Guide", "Park Entry"],
+    "notIncluded": ["Transport", "Meals", "Accommodation"],
+    "nearbyAttractions": [
+      { "name": "Bardiya River", "distance": "5 km", "rating": 4.2 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Full Day Jeep Safari at Bardiya National Park",
+    "location": "Bardiya, Nepal",
+    "latitude": 28.31023,
+    "longitude": 81.4279,
+    "rating": 4.0,
+    "reviews": 780,
+    "duration": "Full Day",
+    "cost": 45,
+    "description": "Jeep safari through Bardiya National Park to see wildlife.",
+    "highlights": ["Jeep Safari", "Wildlife", "Photography"],
+    "elevation": "150m",
+    "bestTime": {
+      "OctDec": "20-30°C",
+      "MarMay": "22-35°C",
+      "JunSep": "25-35°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/97/a8/37/jeep-safari-in-the-park.jpg?w=600&h=500&s=1",
+    "included": ["Jeep Ride", "Guide", "Park Entry"],
+    "notIncluded": ["Meal", "Accommodation", "Transport"],
+    "nearbyAttractions": [
+      { "name": "Tharu Village", "distance": "8 km", "rating": 4.5 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Bardiya National Park Tour",
+    " location": "Bardiya, Nepal",
+    "latitude": 28.3102,
+    "longitude": 81.4279,
+    "rating": 4.6,
+    "reviews": 920,
+    "duration": "Full Day",
+    "cost": 35,
+    "description": "Wildlife safari and cultural tours in Bardiya National Park.",
+    "highlights": ["Wildlife", "Cultural Tour", "Jeep & Walk Hybrid"],
+    "elevation": "150m",
+    "bestTime": {
+      "OctDec": "20-28°C",
+      "MarMay": "22-35°C",
+      "JunSep": "25-35°C"
+    },
+    "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/46/33/6a.jpg",
+    "included": ["Guide", "Transport", "Park Entry"],
+    "notIncluded": ["Accommodation", "Meals"],
+    "nearbyAttractions": [
+      { "name": "Tharu Village", "distance": "8 km", "rating": 4.5 },
+      { "name": "Elephant Breeding Centre", "distance": "6 km", "rating": 4.4 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Nature Walk in Chitwan Jungle Safari",
+    "location": "Chitwan, Nepal",
+    "latitude": 27.6844,
+    "longitude": 84.4333,
+    "rating": 4.5,
+    "reviews": 890,
+    "duration": "Half Day",
+    "cost": 17,
+    "description": "Guided nature and jungle walk inside Chitwan National Park.",
+    "highlights": ["Walking", "Birdwatching", "Forest Experience"],
+    "elevation": "150m",
+    "bestTime": {
+      "OctDec": "20-28°C",
+      "MarMay": "22-32°C",
+      "JunSep": "25-35°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ee/68/bd/chitwan-jungle-safari.jpg?w=600&h=400&s=1",
+    "included": ["Guide", "Park Entry"],
+    "notIncluded": ["Transport", "Meals"],
+    "nearbyAttractions": [
+      { "name": "Rapti River Canoeing", "distance": "3 km", "rating": 4.6 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Elephant Breeding Centre Visit",
+    "location": "Chitwan, Nepal",
+    "latitude": 27.5784,
+    "longitude": 84.465,
+    "rating": 4.4,
+    "reviews": 940,
+    "duration": "1-2 hours",
+    "cost": 10,
+    "description": "Visit the elephant breeding center and learn about conservation efforts.",
+    "highlights": ["Elephants", "Conservation", "Educational"],
+    "elevation": "150m",
+    "bestTime": {
+      "OctDec": "20-28°C",
+      "MarMay": "22-32°C",
+      "JunSep": "25-35°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ee/68/e7/chitwan-jungle-safari.jpg?w=600&h=400&s=1",
+    "included": ["Entry Ticket", "Guide"],
+    "notIncluded": ["Transport", "Meals"],
+    "nearbyAttractions": [
+      { "name": "Chitwan Jungle Safari", "distance": "6 km", "rating": 4.5 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Canoeing and Birding in Chitwan",
+    "location": "Chitwan, Nepal",
+    "latitude": 28.2073,
+    "longitude": 83.9833,
+    "rating": 4.6,
+    "reviews": 1120,
+    "duration": "2-3 hours",
+    "cost": 22,
+    "description": "Canoe ride on Rapti River spotting wildlife and birds.",
+    "highlights": ["Canoeing", "Birdwatching", "River"],
+    "elevation": "150m",
+    "bestTime": {
+      "OctDec": "20-28°C",
+      "MarMay": "22-32°C",
+      "JunSep": "25-35°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/11/58/f3/narayani-river.jpg?w=600&h=400&s=1",
+    "included": ["Canoe Ride", "Guide", "Park Entry"],
+    "notIncluded": ["Meals", "Transport"],
+    "nearbyAttractions": [
+      { "name": "Elephant Breeding Centre", "distance": "6 km", "rating": 4.4 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Tharu Village Cultural Tour",
+    "location": "Chitwan, Nepal",
+    "latitude": 27.676,
+    "longitude": 84.39,
+    "rating": 4.5,
+    "reviews": 970,
+    "duration": "Half Day",
+    "cost": 26,
+    "description": "Cultural tour of Tharu villages near Chitwan National Park.",
+    "highlights": ["Cultural Immersion", "Traditional Dance", "Local Crafts"],
+    "elevation": "150m",
+    "bestTime": {
+      "OctDec": "20-28°C",
+      "MarMay": "22-32°C",
+      "JunSep": "25-35°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/5f/7b/14/actuacion.jpg?w=1000&h=-1&s=1",
+    "included": ["Village Guide", "Transport", "Cultural Activities"],
+    "notIncluded": ["Meals", "Accommodation"],
+    "nearbyAttractions": [
+      { "name": "Chitwan Safari", "distance": "10 km", "rating": 4.5 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Nature Walk in Shivapuri National Park",
+    "location": "Kathmandu, Nepal",
+    "latitude": 27.7677,
+    "longitude": 85.3913,
+    "rating": 4.5,
+    "reviews": 1080,
+    "duration": "2-3 hours",
+    "cost": 12,
+    "description": "Nature hikes through Shivapuri National Park overlooking Kathmandu valley.",
+    "highlights": ["Forest", "Valley Views", "Birding"],
+    "elevation": "2,500m",
+    "bestTime": {
+      "OctDec": "5-15°C",
+      "MarMay": "10-20°C",
+      "JunSep": "15-25°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/80/0a/e4/prakriti-resort-organic.jpg?w=700&h=-1&s=1",
+    "included": ["Guide", "Park Entry"],
+    "notIncluded": ["Transport", "Meals"],
+    "nearbyAttractions": [
+      { "name": "Kathmandu Valley Overlook", "distance": "0 km", "rating": 4.6 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Nagarkot Sunrise Tour",
+    "location": "Nagarkot, Nepal",
+    " latitude": 27.7152,
+    "longitude": 85.5208,
+    "rating": 4.7,
+    "reviews": 1650,
+    "duration": "Early Morning",
+    "cost": 20,
+    "description": "Drive to Nagarkot for sunrise views across the Himalayas.",
+    "highlights": ["Sunrise", "Mountain Views", "Photography"],
+    "elevation": "2,195m",
+    "bestTime": { "OctDec": "-", "MarMay": "-", "JunSep": "-" },
+    "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/74/9d/df.jpg",
+    "included": ["Transport", "Guide", "Sunrise Viewpoint Entry"],
+    "notIncluded": ["Meals", "Accommodation"],
+    "nearbyAttractions": [
+      { "name": "Nagarkot Hiking Trail", "distance": "2 km", "rating": 4.6 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Nagarkot Hiking Trail",
+    "location": "Nagarkot, Nepal",
+    " latitude": 27.7152,
+    "longitude": 85.5208,
+    "rating": 4.6,
+    "reviews": 1400,
+    "duration": "3-4 hours",
+    "cost": 22,
+    "description": "Hiking trail up and around Nagarkot with panoramic mountain views.",
+    "highlights": ["Hiking", "Himalayan Views", "Nature"],
+    "elevation": "2,195m",
+    "bestTime": {
+      "OctDec": "5-15°C",
+      "MarMay": "10-20°C",
+      "JunSep": "15-25°C"
+    },
+    "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/15/89/70/48.jpg",
+    "included": ["Guide", "Trail Permits", "Transport"],
+    "notIncluded": ["Food", "Insurance", "Accommodation"],
+    "nearbyAttractions": [
+      {
+        "name": "Nagarkot Sunrise Viewpoint",
+        "distance": "1 km",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Peace Temple Visit",
+    "location": "Pokhara, Nepal",
+    "latitude": 28.1866,
+    "longitude": 83.9496,
+
+    "rating": 4.6,
+    "reviews": 1300,
+    "duration": "1‑2 hours",
+    "cost": 10,
+    "description": "Visit the World Peace Pagoda overlooking Fewa Lake and Pokhara valley.",
+    "highlights": ["Stupa", "Viewpoint", "Peace"],
+    "elevation": "1,100m",
+    "bestTime": {
+      "OctDec": "10-20°C",
+      "MarMay": "15-25°C",
+      "JunSep": "20-30°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d4/26/41/view-from-tushita-nepal.jpg?w=700&h=400&s=1",
+    "included": ["Entry Ticket", "Transport Up Hills"],
+    "notIncluded": ["Guide", "Meals"],
+    "nearbyAttractions": [
+      { "name": "Phewa Lake", "distance": "4 km", "rating": 4.7 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Gupteshwor Gupha",
+    "location": "Pokhara, Nepal",
+    "latitude": 28.1938,
+    "longitude": 83.9585,
+    "rating": 4.4,
+    "reviews": 1100,
+    "duration": "1‑2 hours",
+    "cost": 8,
+    "description": "Explore the sacred Hindu cave temple near Pokhara’s lakeside.",
+    "highlights": ["Cave Temple", "Mythology", "Photography"],
+    "elevation": "800m",
+    "bestTime": { "Year‑round": "15‑30°C" },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/e3/1d/d6/gupteswar-gupha.jpg?w=1400&h=500&s=1",
+    "included": ["Entry Ticket"],
+    "notIncluded": ["Guide", "Transport"],
+    "nearbyAttractions": [
+      { "name": "Phewa Lake", "distance": "1 km", "rating": 4.7 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Barahi Temple Boat Visit",
+    "location": "Pokhara, Nepal",
+    " latitude": 28.2082,
+    "longitude": 83.9578,
+    "rating": 4.3,
+    "reviews": 1050,
+    "duration": "1‑2 hours",
+    "cost": 12,
+    "description": "Temple on an island in Phewa Lake, accessed by boat.",
+    "highlights": ["Boat Ride", "Temple", "Island"],
+    "elevation": "742m",
+    "bestTime": { "Year‑round": "15‑30°C" },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/26/fd/c5/photo0jpg.jpg?w=500&h=-1&s=1",
+    "included": ["Boat Ride", "Entry Ticket"],
+    "notIncluded": ["Guide", "Meals"],
+    "nearbyAttractions": [
+      { "name": "Phewa Lake", "distance": "0.5 km", "rating": 4.7 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Tibetan Cultural Tour",
+    "location": "Pokhara, Nepal",
+    " latitude": 28.2076,
+    "longitude": 83.9739,
+    "rating": 4.5,
+    "reviews": 980,
+    "duration": "Half Day",
+    "cost": 28,
+    "description": "Visit Tibetan refugee settlements, culture centers and monasteries in Pokhara.",
+    "highlights": ["Culture", "Refugee Settlement", "Monasteries"],
+    "elevation": "740m",
+    "bestTime": {
+      "OctDec": "10‑20°C",
+      "MarMay": "15‑25°C",
+      "JunSep": "20‑30°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/56/6c/fd/caption.jpg?w=300&h=300&s=1",
+    "included": ["Transport", "Guide", "Visits to Monasteries"],
+    "notIncluded": ["Meals", "Donation"],
+    "nearbyAttractions": [
+      { "name": "Phewa Lake", "distance": "8 km", "rating": 4.7 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Kathmandu Sightseeing Tour",
+    "location": "Kathmandu, Nepal",
+    " latitude": 27.7172,
+    "longitude": 85.324,
+    "rating": 4.9,
+    "reviews": 2400,
+    "duration": "Full Day",
+    "cost": 157,
+    "description": "Full‑day guided tour of Kathmandu’s UNESCO World Heritage Sites: Boudhanath, Swayambhunath, Pashupatinath, Patan and Bhaktapur.",
+    "highlights": ["Historic Sites", "UNESCO", "Heritage"],
+    "elevation": "1,400m",
+    "bestTime": {
+      "OctDec": "10‑20°C",
+      "MarMay": "15‑25°C",
+      "JunSep": "20‑28°C"
+    },
+    "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/08/6c/58/37.jpg",
+    "included": ["Guide", "Transport", "Entry Fees"],
+    "notIncluded": ["Meals", "Accommodation", "Souvenirs"],
+    "nearbyAttractions": [
+      { "name": "Patan Durbar Square", "distance": "5 km", "rating": 4.8 },
+      { "name": "Bhaktapur Durbar Square", "distance": "13 km", "rating": 4.8 }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Patan Durbar Square Walk",
+    "location": "Kathmandu, Nepal",
+    "latitude": 27.6736,
+    "longitude": 85.3251,
+    "rating": 4.8,
+    "reviews": 1500,
+    "duration": "1‑2 hours",
+    "cost": 40,
+    "description": "Stroll through the royal palaces and temples of Patan Durbar Square, noted for Newari architecture.",
+    "highlights": ["Architecture", "Temples", "History"],
+    "elevation": "1,400m",
+    "bestTime": {
+      "OctDec": "10‑20°C",
+      "MarMay": "15‑25°C",
+      "JunSep": "20‑28°C"
+    },
+    "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/36/8a/c4.jpg",
+    "included": ["Guide", "Entry Ticket"],
+    "notIncluded": ["Transport", "Meals"],
+    "nearbyAttractions": [
+      { "name": "Bhaktapur Durbar Square", "distance": "12 km", "rating": 4.8 },
+      { "name": "Kumari Ghar", "distance": "1 km", "rating": 4.6 }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Bhaktapur Durbar Square Experience",
+    "location": "Kathmandu, Nepal",
+    " latitude": 27.671,
+    "longitude": 85.4298,
+    "rating": 4.8,
+    "reviews": 1600,
+    "duration": "1‑2 hours",
+    "cost": 60,
+    "description": "Discover historical Newar city’s royal squares and temples.",
+    "highlights": ["UNESCO", "Crafts", "Temples"],
+    "elevation": "1,400m",
+    "bestTime": {
+      "OctDec": "10‑20°C",
+      "MarMay": "15‑25°C",
+      "JunSep": "20‑28°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/57/da/58/caption.jpg?w=300&h=300&s=1",
+    "included": ["Entry Ticket", "Guide"],
+    "notIncluded": ["Transport", "Meals"],
+    "nearbyAttractions": [
+      { "name": "Pottery Square", "distance": "0.5 km", "rating": 4.7 }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Swayambhunath Temple Visit",
+    "location": "Kathmandu, Nepal",
+    "latitude": 27.7149,
+    "longitude": 85.2905,
+    "rating": 4.8,
+    "reviews": 1800,
+    "duration": "1‑2 hours",
+    "cost": 10,
+    "description": "The hilltop Monkey Temple offering views over Kathmandu valley and rich Buddhist heritage.",
+    "highlights": ["Monkeys", "Panoramic Views", "Stupa"],
+    "elevation": "1,400m",
+    "bestTime": {
+      "OctDec": "10‑20°C",
+      "MarMay": "15‑25°C",
+      "JunSep": "20‑28°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/df/df/9c/swayambhunath-monkey.jpg?w=1000&h=-1&s=1",
+    "included": ["Entry", "Guide"],
+    "notIncluded": ["Transport", "Meals"],
+    "nearbyAttractions": [
+      {
+        "name": "Kathmandu Valley Viewpoint",
+        "distance": "0 km",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Gupteshwor Cave Tour",
+    "location": "Pokhara, Nepal",
+    "latitude": 28.1938,
+    "longitude": 83.9585,
+    "rating": 4.4,
+    "reviews": 1120,
+    "duration": "1‑2 hours",
+    "cost": 8,
+    "description": "Explore sacred cave temple near lakeside Pokhara.",
+    "highlights": ["Cave", "Hindu Temple", "Photography"],
+    "elevation": "800m",
+    "bestTime": { "Year‑round": "15‑30°C" },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/63/50/0d/gupteswar-gupha.jpg?w=500&h=400&s=1",
+    "included": ["Entry"],
+    "notIncluded": ["Guide", "Transport"],
+    "nearbyAttractions": [
+      { "name": "Phewa Lake", "distance": "1 km", "rating": 4.7 }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Begnas Lake Relaxation Tour",
+    "location": "Pokhara, Nepal",
+    "latitude": 28.1932,
+    " longitude": 84.0696,
+    "rating": 4.5,
+    "reviews": 880,
+    "duration": "2‑3 hours",
+    "cost": 23,
+    "description": "Relax by peaceful Begnas Lake, a quieter alternative near Pokhara.",
+    "highlights": ["Tranquil Lake", "Scenic Views", "Boating"],
+    "elevation": "759m",
+    "bestTime": {
+      "OctDec": "10‑20°C",
+      "MarMay": "15‑25°C",
+      "JunSep": "20‑30°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6b/c9/b3/begnas-lake.jpg?w=600&h=400&s=1",
+    "included": ["Boat Rental"],
+    "notIncluded": ["Guide", "Meals", "Transport"],
+    "nearbyAttractions": [
+      { "name": "Begnas Freshwater Springs", "distance": "1 km", "rating": 4.4 }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Chandragiri Cable Car Tour",
+    "location": "Kathmandu, Nepal",
+    "latitude": 27.6664,
+    "longitude": 85.2641,
+    "rating": 4.7,
+    "reviews": 990,
+    "duration": "Half Day",
+    "cost": 78,
+    "description": "Ride the Chandragiri hill cable car for panoramic views of Nepal’s Himalaya.",
+    "highlights": ["Cable Car", "Panoramic Views", "Photography"],
+    "elevation": "2,500m",
+    "bestTime": {
+      "OctDec": "5‑15°C",
+      "MarMay": "10‑20°C",
+      "JunSep": "15‑25°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/7e/70/2d/caption.jpg?w=300&h=300&s=1",
+    "included": ["Cable Car Ticket", "Guide"],
+    "notIncluded": ["Meals", "Transport"],
+    "nearbyAttractions": [
+      { "name": "Bhaleshwor Mahadev Temple", "distance": "3 km", "rating": 4.5 }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Dhulikhel, Namobuddha & Panauti Scenic Day Tour",
+    "location": "Kathmandu Valley, Nepal",
+    "latitude": 27.6236,
+    "longitude": 85.554,
+    "reviews": 1200,
+    "duration": "Full Day",
+    "cost": 73,
+    "description": "Visit historic towns and Buddhist pilgrimage sites near Kathmandu valley.",
+    "highlights": [
+      "Pilgrimage Sites",
+      "Scenic Mountain Views",
+      "Local Culture"
+    ],
+    "elevation": "1,550m",
+    "bestTime": {
+      "OctDec": "5‑20°C",
+      "MarMay": "10‑25°C",
+      "JunSep": "15‑30°C"
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/76/16/4e/caption.jpg?w=700&h=400&s=1",
+    "included": ["Transport", "Guide", "Site Entry Fees"],
+    "notIncluded": ["Meals", "Accommodation"],
+    "nearbyAttractions": [
+      { "name": "Namobuddha Monastery", "distance": "20 km", "rating": 4.6 },
+      { "name": "Panauti Town", "distance": "30 km", "rating": 4.5 }
+    ]
+  }
 ]
