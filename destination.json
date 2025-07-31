@@ -1,245 +1,303 @@
 [
   {
-    "id": 1,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/e2/91/71/caption.jpg?w=300&h=300&s=1",
-    "title": "Kathmandu sightseeing tour",
-    "description": "A full‑day guided tour of Kathmandu’s UNESCO World Heritage Sites including Boudhanath, Swayambhunath, Pashupatinath, Patan and Bhaktapur Durbar Squares.",
-    "price": 15700,
-    "rating": 4.9,
-    "city": "Kathmandu"
+  "nagarkot": {
+    "id": "nagarkot",
+    "hero": {
+      "image": "/images/nagarkot-hero.jpg",
+      "title": "Nagarkot Panoramic Hiking Trail",
+      "location": "Nagarkot, Nepal",
+      "rating": 4.8,
+      "reviews": 1200,
+      "duration": "3–3.5 hours",
+      "price": 25,
+      "rank": 1,
+      "description": "A scenic ~12 km loop hike with breathtaking Himalayan vistas along the ridge above Nagarkot." 
+    },
+    "photos": [
+      "/images/nagarkot-1.jpg", "/images/nagarkot-2.jpg", "/images/nagarkot-3.jpg"
+    ],
+    "about": {
+      "elevation": "≈ 2,175 m",
+      "distanceFromKathmandu": "≈ 38 km east",
+      "terrain": "Gentle ridge‑trail, village path and forest segments",
+      "highlights": [
+        "Panoramic Himalaya sunrise shots",
+        "Traditional Tamang village footpaths",
+        "Tea‑house stops"
+      ]
+    },
+    "locationRoute": {
+      "fromKathmandu": "Drive 1.5 hours east to Nagarkot; hike begins at local gardens/village trailheads"
+    },
+    "bestTime": ["September–November", "March–May"],
+    "booking": {
+      "tourOperators": "Guided sunrise hikes ~USD 20–40 per person",
+      "selfGuided": "Trail accessible without official booking"
+    }
   },
-  {
-    "id": 2,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/ad/0f/dc/boudhanath-stupa-is-the.jpg?w=600&h=400&s=1",
-    "title": "Boudhanath Stupa",
-    "description": "Visit the iconic Buddhist stupa and cultural center of Boudhanath.",
-    "price": 866,
-    "rating": 4.7,
-    "city": "Kathmandu"
+  "boudhanath-stupa": {
+    "id": "boudhanath-stupa",
+    "hero": {
+      "image": "/images/boudhanath-hero.jpg",
+      "title": "Boudhanath Stupa",
+      "location": "Kathmandu, Nepal",
+      "rating": 4.8,
+      "reviews": 3800,
+      "duration": "1–2 hours",
+      "price": 4,
+      "rank": 2,
+      "description": "One of the world’s largest Buddhist stupas and a UNESCO World Heritage Site."
+    },
+    "photos": [
+      "/images/boudha-1.jpg", "/images/boudha-2.jpg", "/images/boudha-3.jpg"
+    ],
+    "about": {
+      "religion": "Tibetan Buddhist",
+      "features": [
+        "Massive mandala stupa & prayer wheels",
+        "Surrounded by Tibetan monasteries",
+        "Pilgrims doing kora/circling prayers"
+      ]
+    },
+    "locationRoute": {
+      "fromKathmandu": "Taxi or tuk‑tuk to Boudhanath; short walk around the stupa"
+    },
+    "bestTime": ["Early morning or late afternoon", "Festivals like Lhosar"],
+    "booking": {
+      "entryFees": {
+        "foreign": "NPR 400 (~USD 3.40)",
+        "SAARC": "NPR 100",
+        "Nepali": "free"
+      },
+      "visitTips": [
+        "Walk clockwise",
+        "Ideal time: sunset candle lighting"
+      ]
+    }
   },
-  {
-    "id": 3,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/4a/95/ac/pashupatinath-is-the.jpg?w=600&h=-1&s=",
-    "title": "Pashupatinath Temple",
-    "description": "Explore one of the most sacred Hindu temples in South Asia on the Bagmati River banks.",
-    "price": 7738,
-    "rating": 4.6,
-    "city": "Kathmandu"
+  "chandragiri-cable-car": {
+    "id": "chandragiri-cable-car",
+    "hero": {
+      "image": "/images/chandragiri-hero.jpg",
+      "title": "Chandragiri Cable Car Tour",
+      "location": "Chandragiri Hills, near Kathmandu",
+      "rating": 4.4,
+      "reviews": 1200,
+      "duration": "Half‑day (4–6 hours)",
+      "price": 20,
+      "rank": 3,
+      "description": "Scenic cable car ride up Chandragiri Hill offering Himalayan and Kathmandu Valley views."
+    },
+    "photos": [
+      "/images/chandragiri-1.jpg",
+      "/images/chandragiri-2.jpg",
+      "/images/chandragiri-3.jpg"
+    ],
+    "about": {
+      "elevation": "≈ 2,500 m",
+      "features": [
+        "9–12 min gondola ride (2.5 km)",
+        "Viewing tower & Bhaleshwor Temple",
+        "Optional short hikes"
+      ]
+    },
+    "locationRoute": {
+      "fromKathmandu": "Drive ~30 km southwest; cable‑car station at base of hill"
+    },
+    "bestTime": ["Year‑round"],
+    "booking": {
+      "ticketPrices": {
+        "Nepali (two‑way)": "NPR 799",
+        "SAARC (two‑way)": "NPR 1,280",
+        "Foreigners (two‑way)": "USD 15–22"
+      },
+      "tourOperators": "Cable‑car tours from Kathmandu from ~USD 50–90 including transport"
+    }
   },
-  {
-    "id": 4,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/4d/9c/80/caption.jpg?w=600&h=400&s=1",
-    "title": "Swayambhunath Temple",
-    "description": "The hilltop Monkey Temple offering views over Kathmandu valley and rich Buddhist heritage.",
-    "price": 866,
-    "rating": 4.8,
-    "city": "Kathmandu"
+  "chitwan-jungle-safari": {
+    "id": "chitwan-jungle-safari",
+    "hero": {
+      "image": "/images/chitwan-safari-hero.jpg",
+      "title": "Chitwan Jungle Safari Tour",
+      "location": "Chitwan National Park, Nepal",
+      "rating": 4.7,
+      "reviews": 1000,
+      "duration": "2–3 days",
+      "price": 200,
+      "rank": 4,
+      "description": "Safari in Chitwan National Park with wildlife viewing, canoe rides, and Tharu cultural experiences."
+    },
+    "photos": [
+      "/images/chitwan-1.jpg",
+      "/images/chitwan-2.jpg",
+      "/images/chitwan-3.jpg"
+    ],
+    "about": {
+      "features": [
+        "Jeep or walking safari for rhinos & birds",
+        "Canoeing on Rapti River",
+        "Elephant breeding centre visits",
+        "Tharu dance & cultural village"
+      ],
+      "startLocation": "Sauraha or Bharatpur"
+    },
+    "locationRoute": {
+      "fromKathmandu": "4–6 hours drive to Sauraha or Bharatpur airport then transfer to lodge"
+    },
+    "bestTime": ["October–April"],
+    "booking": {
+      "packages": {
+        "2‑night/3‑day": "USD 200–270 per person including transport, accommodation, meals & activities"
+      },
+      "operators": "Multiple lodge-based safari operators in Chitwan"
+    }
   },
-  {
-    "id": 5,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/55/58/1d/caption.jpg?w=300&h=300&s=1",
-    "title": "Patan Durbar Square",
-    "description": "Stroll through the royal palaces and temples of Patan Durbar Square, noted for Newari architecture.",
-    "price": 4729,
-    "rating": 4.8,
-    "city": "Kathmandu"
-  },
-  {
-    "id": 6,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/ce/a3/caption.jpg?w=300&h=300&s=1",
-    "title": "Bhaktapur Durbar Square",
-    "description": "Discover two ancient Newar cities’ royal squares and temples.",
-    "price": 2620,
-    "rating": 4.8,
-    "city": "Kathmandu"
-  },
-  {
-    "id": 7,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5b/a8/6a/caption.jpg?w=300&h=300&s=1",
-    "title": "Chandragiri Cable Car Tour in Kathmandu",
-    "description": "Ride the Chandragiri hill cable car for panoramic views of Nepal’s Himalaya.",
-    "price": 7834,
-    "rating": 4.7,
-    "city": "Kathmandu"
-  },
-  {
-    "id": 8,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/19/b7/33/caption.jpg?w=300&h=300&s=1",
-    "title": "Dhulikhel, Namobuddha & Panauti – A Scenic Day Tour from Kathmandu",
-    "description": "Visit historic towns and Buddhist pilgrimage sites near the Kathmandu valley.",
-    "price": 7354,
-    "rating": 4.6,
-    "city": "Kathmandu"
-  },
-  {
-    "id": 9,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/21/4d/ac/shivapuri-nagarjun-national.jpg?w=500&h=400&s=1",
-    "title": "Shivapuri National Park",
-    "description": "Nature hikes through Shivapuri National Park overlooking Kathmandu city.",
-    "price": 2596,
-    "rating": 4.5,
-    "city": "Kathmandu"
-  },
-  {
-    "id": 10,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/58/d5/5f/caption.jpg?w=300&h=300&s=1",
-    "title": "Nagarkot Tour",
-    "description": "Sunrise and mountain-view tour at the tranquil Nagarkot hill station.",
-    "price": 5399,
-    "rating": 4.7,
-    "city": "Kathmandu"
-  },
-  {
-    "id": 11,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d6/96/35/photo3jpg.jpg?w=600&h=-1&s=1",
-    "title": "Sarangkot Sunrise Tour",
-    "description": "Early‑morning tour from Pokhara to Sarangkot for sunrise views over Annapurna and Fewa Lake.",
-    "price": 6952,
-    "rating": 4.5,
-    "city": "Pokhara"
-  },
-  {
-    "id": 12,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/d4/26/43/view-from-tushita-nepal.jpg?w=600&h=-1&s=1",
-    "title": "Peace Temple",
-    "description": "Visit the World Peace Pagoda overlooking Fewa Lake and Pokhara valley.",
-    "price": 2500,
-    "rating": 4.6,
-    "city": "Pokhara"
-  },
-  {
-    "id": 13,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/62/71/2c/the-heart-soul-of-pokhara.jpg?w=600&h=400&s=1",
-    "title": "Phewa Lake Tal",
-    "description": "Boating on scenic Phewa Lake with mountain reflections.",
-    "price": 2200,
-    "rating": 4.7,
-    "city": "Pokhara"
-  },
-  {
-    "id": 14,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/6b/c9/b3/begnas-lake.jpg?w=600&h=400&s=1",
-    "title": "Begnas Lake",
-    "description": "Relax by peaceful Begnas Lake, a quieter alternative near Pokhara.",
-    "price": 2300,
-    "rating": 4.5,
-    "city": "Pokhara"
-  },
-  {
-    "id": 15,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/63/50/0d/gupteswar-gupha.jpg?w=500&h=400&s=1",
-    "title": "Gupteshwor Gupha",
-    "description": "Explore the sacred Hindu cave temple near Pokhara’s lakeside.",
-    "price": 2100,
-    "rating": 4.4,
-    "city": "Pokhara"
-  },
-  {
-    "id": 16,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/26/fd/c5/photo0jpg.jpg?w=500&h=-1&s=1",
-    "title": "Barahi Temple",
-    "description": "Temple on an island in Phewa Lake, accessed by boat.",
-    "price": 2000,
-    "rating": 4.3,
-    "city": "Pokhara"
-  },
-  {
-    "id": 17,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/56/6c/fd/caption.jpg?w=300&h=300&s=1",
-    "title": "Tibetan Cultural Tour",
-    "description": "Visit Tibetan refugee settlements, culture centers and monasteries in Pokhara.",
-    "price": 2800,
-    "rating": 4.5,
-    "city": "Pokhara"
-  },
-  {
-    "id": 18,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5b/a9/66/caption.jpg?w=300&h=300&s=1",
-    "title": "Nagarkot Sunrise Tour",
-    "description": "Drive to Nagarkot for sunrise views across the Himalayas.",
-    "price": 5624,
-    "rating": 4.7,
-    "city": "Kathmandu"
-  },
-  {
-    "id": 19,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/47/7d/73/stunning-mountain-views.jpg?w=500&h=-1&s=1",
-    "title": "Nagarkot Hiking Trail",
-    "description": "Hiking trail up and around Nagarkot with panoramic mountain views.",
-    "price": 5624,
-    "rating": 4.6,
-    "city": "Kathmandu"
-  },
-  {
-    "id": 20,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/32/80/f5/caption.jpg?w=300&h=300&s=1",
-    "title": "Nature Walk in Chitwan Jungle Safari",
-    "description": "Guided nature and jungle walk inside Chitwan National Park.",
-    "price": 17130,
-    "rating": 4.5,
-    "city": "Chitwan"
-  },
-  {
-    "id": 21,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/44/ce/3e/caption.jpg?w=300&h=300&s=1",
-    "title": "Jungle Safari Tour",
-    "description": "Full jungle safari including elephant ride, canoe and jeep.",
-    "price": 17130,
-    "rating": 4.5,
-    "city": "Chitwan"
-  },
-  {
-    "id": 22,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ee/68/e7/chitwan-jungle-safari.jpg?w=500&h=400&s=1",
-    "title": "Elephant Breeding Centre",
-    "description": "Visit the elephant breeding center and learn about conservation efforts.",
-    "price": 2500,
-    "rating": 4.4,
-    "city": "Chitwan"
-  },
-  {
-    "id": 23,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/11/58/f3/narayani-river.jpg?w=500&h=-1&s=1",
-    "title": "Canoeing in Chitwan National Park",
-    "description": "Canoe ride on Rapti River spotting wildlife and birds.",
-    "price": 2200,
-    "rating": 4.6,
-    "city": "Chitwan"
-  },
-  {
-    "id": 24,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/da/97/a4/photo3jpg.jpg?w=300&h=-1&s=1",
-    "title": "Tharu Village Tour",
-    "description": "Cultural tour of Tharu villages near Chitwan National Park.",
-    "price": 2600,
-    "rating": 4.5,
-    "city": "Chitwan"
-  },
-  {
-    "id": 25,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/2b/7b/9f/caption.jpg?w=300&h=300&s=1",
-    "title": "Bardiya National Park Tour",
-    "description": "Wildlife safari and cultural tours in Bardiya National Park.",
-    "price": 3500,
-    "rating": 4.6,
-    "city": "Bardiya"
-  },
-  {
-    "id": 26,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/4f/a8/47/caption.jpg?w=300&h=300&s=1",
-    "title": "Full Day Walking Safari at Bardiya National Park",
-    "description": "Walking safari through Bardiya’s forest for rhino and bird sightings.",
-    "price": 4000,
-    "rating": 4.1,
-    "category": "Bardiya"
-  },
-  {
-    "id": 27,
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/d6/6d/a4/caption.jpg?w=300&h=300&s=1",
-    "title": "Full Day Jeep Safari at Bardiya National Park",
-    "description": "Jeep safari through Bardiya National Park to see wildlife.",
-    "price": 4000,
-    "rating": 4.0,
-    "category": "Bardiya"
+  "pashupatinath-temple": {
+    "id": "pashupatinath-temple",
+    "hero": {
+      "image": "/images/pashupatinath-hero.jpg",
+      "title": "Pashupatinath Temple",
+      "location": "Kathmandu, Nepal",
+      "rating": 4.4,
+      "reviews": 5095,
+      "duration": "1–2 hours",
+      "price": 10,
+      "rank": 5,
+      "description": "Nepal’s holiest Hindu temple on the Bagmati, UNESCO World Heritage Site with daily rituals."
+    },
+    "photos": [
+      "/images/pashupatinath-1.jpg",
+      "/images/pashupatinath-2.jpg",
+      "/images/pashupatinath-3.jpg"
+    ],
+    "about": {
+      "religion": "Hindu (Shiva)",
+      "siteArea": "≈ 246 ha",
+      "features": [
+        "Pagoda temples with silver‑plated doors",
+        "Riverside cremation ghats",
+        "Abhishekam ceremony & evening aarti"
+      ]
+    },
+    "locationRoute": {
+      "fromKathmanduAirport": "≈ 15 min drive from airport; taxis or local buses available"
+    },
+    "bestTime": ["Autumn (Sept–Nov)", "Spring (Mar–May)", "Winter (Dec–Feb)"],
+    "booking": {
+      "entryFees": {
+        "Nepali/Indian": "free",
+        "Foreigner": "NPR 1000 (~USD 10)"
+      },
+      "visitTips": [
+        "Dress modestly",
+        "Remove shoes before courtyard",
+        "Photography only outside main sanctum"
+      ]
+    }
   }
+},
+{
+  "shivapuri-hike": {
+    "id": "shivapuri-hike",
+    "hero": {
+      "image": "/images/shivapuri-hero.jpg",
+      "title": "Shivapuri National Park Day Hike",
+      "location": "Shivapuri Hills, near Kathmandu",
+      "rating": 4.6,
+      "reviews": 500,
+      "duration": "1 day (4–6 hours hiking)",
+      "price": 30,
+      "rank": 6,
+      "description": "Forest trail hike to Shivapuri Peak with dense forest, Bagdwar source of Bagmati, monastery stop and Himalayan views."
+    },
+    "photos": [
+      "/images/shivapuri-1.jpg", "/images/shivapuri-2.jpg", "/images/shivapuri-3.jpg"
+    ],
+    "about": {
+      "elevation": "from ~1,450 m to 2,732 m",
+      "terrain": "Managed forest paths, rhododendron & oak woodland",
+      "highlights": [
+        "Panorama of Langtang & Ganesh Himal",
+        "Bagdwar water source & Nagi Gompa",
+        "Birding and wildlife in Shivapuri National Park"
+      ]
+    },
+    "locationRoute": {
+      "fromKathmandu": "Drive ~40 min to Budhanilkantha/Sundarijal; hike via Bagdwar to Nagi Gompa and Shivapuri peak, return same"
+    },
+    "bestTime": ["September–May"],
+    "booking": {
+      "package": "Approximately USD 30–100 per person depending on group size & services",
+      "includes": ["Transport, guide, park permit, lunch/snacks"] 
+    }
+  },
+  "namobuddha-panauti-day-tour": {
+    "id": "namobuddha-panauti-day-tour",
+    "hero": {
+      "image": "/images/namobuddha-panauti-hero.jpg",
+      "title": "Namobuddha & Panauti Day Tour",
+      "location": "Namobuddha & Panauti, Nepal",
+      "rating": 4.5,
+      "reviews": 350,
+      "duration": "Full day (8 hours)",
+      "price": 45,
+      "rank": 7,
+      "description": "Spiritual pilgrimage at Namobuddha monastery followed by cultural exploration of medieval town Panauti."
+    },
+    "photos": [
+      "/images/namobuddha-1.jpg", "/images/panauti-1.jpg", "/images/panauti-2.jpg"
+    ],
+    "about": {
+      "elevation": "Namobuddha ~1,800 m",
+      "distanceFromKathmandu": "≈ 38 km southeast",
+      "features": [
+        "Hill‑top Buddhist monastery with legend of Buddha’s self‑sacrifice",
+        "Medieval Newari architecture in Panauti including Indreshwar Temple",
+        "Triveni rivers confluence"
+      ]
+    },
+    "locationRoute": {
+      "fromKathmandu": "Drive southeast ~1.5 hours via Banepa to Namobuddha hike, then continue to Panauti return to Kathmandu"
+    },
+    "bestTime": ["September–November", "March–May"],
+    "booking": {
+      "TourPackages": "USD 35–65 per person depending on group size",
+      "includes": ["Hotel pickup, guide, entry, lunch"] 
+    }
+  },
+  "dhulikhel-day-tour": {
+    "id": "dhulikhel-day-tour",
+    "hero": {
+      "image": "/images/dhulikhel-hero.jpg",
+      "title": "Dhulikhel & Surroundings Scenic Day Tour",
+      "location": "Dhulikhel, Nepal",
+      "rating": 4.6,
+      "reviews": 600,
+      "duration": "Full day",
+      "price": 40,
+      "rank": 8,
+      "description": "Hill town Dhulikhel with Himalayan panoramas, traditional Newari culture, and optional side‑visits to Namobuddha and Panauti."
+    },
+    "photos": [
+      "/images/dhulikhel-1.jpg", "/images/dhulikhel-2.jpg", "/images/dhulikhel-3.jpg"
+    ],
+    "about": {
+      "elevation": "≈ 1,550 m",
+      "distanceFromKathmandu": "≈ 30 km east",
+      "features": [
+        "Sunrise & sunset Himalayan views",
+        "Old Newari bazaar & temples",
+        "Optional hiking or village exploration"
+      ]
+    },
+    "locationRoute": {
+      "fromKathmandu": "Drive east to Dhulikhel, view points, local bazaar; optionally continue to Namobuddha and Panauti"
+    },
+    "bestTime": ["March–May", "September–November"],
+    "booking": {
+      "packages": "USD 35–60 per person including transport and guide"
+    }
+  }
+}
+
 ]
